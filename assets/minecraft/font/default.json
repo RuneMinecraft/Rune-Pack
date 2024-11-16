@@ -1,0 +1,102 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "custom/manager.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["Ђ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom/dev.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["Ѓ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom/admin.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["Є"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom/srmod.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["Љ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom/mod.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["Ѝ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom/helper.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["Џ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom/builder.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["Д"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom/creator.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["Ж"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom/master.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["Щ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom/warlock.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["Ъ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom/sorcerer.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["Ы"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom/wizard.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["Ю"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom/mage.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["ф"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom/member.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["ђ"]
+        }
+    ]
+}
